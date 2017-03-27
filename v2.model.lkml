@@ -10,8 +10,3 @@ include: "*.view"
 include: "*.dashboard"
 
 persist_for: "1 hour"
-
-
-explore: reservations {
-  label: "V2 reservations"
-}
